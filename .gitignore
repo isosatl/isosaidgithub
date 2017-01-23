@@ -1,0 +1,6 @@
+target/isosaId-1.0-SNAPSHOT-sources.jar
+target/maven-archiver/pom.properties
+target/isosaId-1.0-SNAPSHOT-classes.jar
+.idea/workspace.xml
+target/packaged-imports/
+.DS_Store
